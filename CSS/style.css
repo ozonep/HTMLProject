@@ -2,7 +2,39 @@
     background-color: rgb(57, 71, 85);
 }
 
-.nav-item {
-    color: rgb(174,218,229);
+
+.img1 {
+    height: 40px;
 }
 
+.img1:hover {
+    height: 80px;
+}
+
+h3 {
+    font-family: 'Open Sans';
+}
+
+ .wow > li {
+    list-style-type: none; /* Убираем маркеры */
+   }
+
+    .wow {
+    margin-left: 0; /* Отступ слева в браузере IE и Opera */
+    padding-left: 0; /* Отступ слева в браузере Firefox, Safari, Chrome */
+    font-size: 0.9em;
+   }
+
+.wow a {
+    color: black;
+}
+
+h4 {
+    color: cornflowerblue;
+    margin-top: 15px;
+    font-family: 'Open Sans';
+}
+
+.footer {
+        background-color: rgb(57, 71, 85);
+}
